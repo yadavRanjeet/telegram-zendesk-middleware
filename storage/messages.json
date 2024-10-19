@@ -1,0 +1,261 @@
+[
+  {
+    "chatId": -1002289865087,
+    "type": "Received",
+    "message": "Hello , how are you buddy!",
+    "timestamp": "2024-10-06T13:19:18.571Z"
+  },
+  {
+    "chatId": "-1002289865087",
+    "type": "Sent",
+    "message": "Hello,I am good ,What about you!",
+    "timestamp": "2024-10-06T13:20:08.882Z"
+  },
+  {
+    "chatId": -1002289865087,
+    "type": "Received",
+    "message": "I am good too , thanks for asking, btw I am your bot",
+    "timestamp": "2024-10-06T13:21:02.966Z"
+  },
+  {
+    "chatId": 5630733965,
+    "type": "Received",
+    "message": "Hey buddy , it's your bot here",
+    "timestamp": "2024-10-06T13:21:48.232Z"
+  },
+  {
+    "chatId": -1002289865087,
+    "type": "Received",
+    "message": "Hey Ranjeet",
+    "timestamp": "2024-10-06T13:26:47.912Z"
+  },
+  {
+    "message_id": 10,
+    "from": {
+      "id": 5630733965,
+      "is_bot": false,
+      "first_name": "RJ",
+      "username": "YadavRJT",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": -1002289865087,
+      "title": "testing11",
+      "type": "supergroup"
+    },
+    "date": 1728221491,
+    "text": "Testing with all json",
+    "timestamp": "2024-10-06T13:31:31.889Z"
+  },
+  {
+    "message_id": 11,
+    "from": {
+      "id": 5630733965,
+      "is_bot": false,
+      "first_name": "RJ",
+      "username": "YadavRJT",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": -1002289865087,
+      "title": "testing11",
+      "type": "supergroup"
+    },
+    "date": 1728221993,
+    "text": "Hhcchjjjhggh",
+    "timestamp": "2024-10-06T13:39:53.635Z"
+  },
+  {
+    "message_id": 7,
+    "from": {
+      "id": 5630733965,
+      "is_bot": false,
+      "first_name": "RJ",
+      "username": "YadavRJT",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 5630733965,
+      "first_name": "RJ",
+      "username": "YadavRJT",
+      "type": "private"
+    },
+    "date": 1728222057,
+    "text": "Hdnrdbdud BJ kb huu siisbshsgdbbdhdhdb",
+    "timestamp": "2024-10-06T13:40:57.292Z"
+  },
+  {
+    "message_id": 12,
+    "from": {
+      "id": 5630733965,
+      "is_bot": false,
+      "first_name": "RJ",
+      "username": "YadavRJT",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": -1002289865087,
+      "title": "testing11",
+      "type": "supergroup"
+    },
+    "date": 1728222087,
+    "text": "Jbsbdhd",
+    "timestamp": "2024-10-06T13:41:27.324Z"
+  },
+  {
+    "message_id": 13,
+    "from": {
+      "id": 5630733965,
+      "is_bot": false,
+      "first_name": "RJ",
+      "username": "YadavRJT",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": -1002289865087,
+      "title": "testing11",
+      "type": "supergroup"
+    },
+    "date": 1728239525,
+    "text": "Hlo",
+    "timestamp": "2024-10-06T18:32:05.316Z"
+  },
+  {
+    "chat": {
+      "id": "-1002289865087"
+    },
+    "text": "Hello, This is Your Bot",
+    "type": "Sent",
+    "timestamp": "2024-10-10T07:56:19.969Z"
+  },
+  {
+    "message_id": 15,
+    "from": {
+      "id": 5630733965,
+      "is_bot": false,
+      "first_name": "RJ",
+      "username": "YadavRJT",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": -1002289865087,
+      "title": "testing11",
+      "type": "supergroup"
+    },
+    "date": 1728547057,
+    "text": "Hi bot",
+    "timestamp": "2024-10-10T07:57:36.725Z"
+  },
+  {
+    "message_id": 16,
+    "from": {
+      "id": 5630733965,
+      "is_bot": false,
+      "first_name": "RJ",
+      "username": "YadavRJT",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": -1002289865087,
+      "title": "testing11",
+      "type": "supergroup"
+    },
+    "date": 1728547263,
+    "photo": [
+      {
+        "file_id": "AgACAgUAAyEFAASIfJF_AAMQZweJv29upJHZojke5R2eQ6t3N5kAAoC-MRuUGkFUtRQReLtgB10BAAMCAANzAAM2BA",
+        "file_unique_id": "AQADgL4xG5QaQVR4",
+        "file_size": 1747,
+        "width": 67,
+        "height": 90
+      },
+      {
+        "file_id": "AgACAgUAAyEFAASIfJF_AAMQZweJv29upJHZojke5R2eQ6t3N5kAAoC-MRuUGkFUtRQReLtgB10BAAMCAANtAAM2BA",
+        "file_unique_id": "AQADgL4xG5QaQVRy",
+        "file_size": 26477,
+        "width": 240,
+        "height": 320
+      },
+      {
+        "file_id": "AgACAgUAAyEFAASIfJF_AAMQZweJv29upJHZojke5R2eQ6t3N5kAAoC-MRuUGkFUtRQReLtgB10BAAMCAAN4AAM2BA",
+        "file_unique_id": "AQADgL4xG5QaQVR9",
+        "file_size": 117482,
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file_id": "AgACAgUAAyEFAASIfJF_AAMQZweJv29upJHZojke5R2eQ6t3N5kAAoC-MRuUGkFUtRQReLtgB10BAAMCAAN5AAM2BA",
+        "file_unique_id": "AQADgL4xG5QaQVR-",
+        "file_size": 226823,
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "timestamp": "2024-10-10T08:01:03.087Z"
+  },
+  {
+    "message_id": 17,
+    "from": {
+      "id": 5630733965,
+      "is_bot": false,
+      "first_name": "RJ",
+      "username": "YadavRJT",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": -1002289865087,
+      "title": "testing11",
+      "type": "supergroup"
+    },
+    "date": 1728547372,
+    "message_thread_id": 16,
+    "reply_to_message": {
+      "message_id": 16,
+      "from": {
+        "id": 5630733965,
+        "is_bot": false,
+        "first_name": "RJ",
+        "username": "YadavRJT",
+        "language_code": "en"
+      },
+      "chat": {
+        "id": -1002289865087,
+        "title": "testing11",
+        "type": "supergroup"
+      },
+      "date": 1728547263,
+      "photo": [
+        {
+          "file_id": "AgACAgUAAyEFAASIfJF_AAMQZweJv29upJHZojke5R2eQ6t3N5kAAoC-MRuUGkFUtRQReLtgB10BAAMCAANzAAM2BA",
+          "file_unique_id": "AQADgL4xG5QaQVR4",
+          "file_size": 1747,
+          "width": 67,
+          "height": 90
+        },
+        {
+          "file_id": "AgACAgUAAyEFAASIfJF_AAMQZweJv29upJHZojke5R2eQ6t3N5kAAoC-MRuUGkFUtRQReLtgB10BAAMCAANtAAM2BA",
+          "file_unique_id": "AQADgL4xG5QaQVRy",
+          "file_size": 26477,
+          "width": 240,
+          "height": 320
+        },
+        {
+          "file_id": "AgACAgUAAyEFAASIfJF_AAMQZweJv29upJHZojke5R2eQ6t3N5kAAoC-MRuUGkFUtRQReLtgB10BAAMCAAN4AAM2BA",
+          "file_unique_id": "AQADgL4xG5QaQVR9",
+          "file_size": 117482,
+          "width": 600,
+          "height": 800
+        },
+        {
+          "file_id": "AgACAgUAAyEFAASIfJF_AAMQZweJv29upJHZojke5R2eQ6t3N5kAAoC-MRuUGkFUtRQReLtgB10BAAMCAAN5AAM2BA",
+          "file_unique_id": "AQADgL4xG5QaQVR-",
+          "file_size": 226823,
+          "width": 960,
+          "height": 1280
+        }
+      ]
+    },
+    "text": "Hey",
+    "timestamp": "2024-10-10T08:02:52.308Z"
+  }
+]
